@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: greenyellow;
+}
+#container{
+    height: 600px;
+    width: 500px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 50px; */
+    margin-left: 390px;
+    flex-direction: column;
+    box-shadow:  5px 10px 5px 5px gray;
+}
+#useremail{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+}
+#userform{
+    background-color: white;
+}
+#signupbtn{
+    width: 350px;
+    height: 50px;
+    /* border-radius: 20px; */
+    background-color: green;
+    color:white;
+    font-size: larger;
+}
+#spanTag{
+    color: red;
+    font-weight: bold;
+}
+#FirstN{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+}
+#LastN{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+}
+#UserP{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+}
